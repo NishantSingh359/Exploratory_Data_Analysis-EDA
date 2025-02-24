@@ -12,6 +12,7 @@
 ➾
 
 
-![Exploratory Data Aanalytics drawio](https://github.com/user-attachments/assets/8ecef96c-4645-4fca-9e7f-acbced80935e)
+![Exploratory Data Analytics drawio](https://github.com/user-attachments/assets/d977ee27-4c27-487e-a1ae-69de427130f2)
+
 
 
