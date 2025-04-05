@@ -1,5 +1,7 @@
 # Exploratory Data Analysis (EDA)
 ---
+In this project I analyzing data sets to summarize their main characteristics using basics SQL queries. 
+
 ≫  *Road Map*
   ---
   1. Database Exploration
